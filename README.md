@@ -13,8 +13,8 @@
 <h3>Stats:</h3>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Monkeontheroof.png" alt="TryHackMe">
 
-[![Finn's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=monkeontheroof&show_icons=true&theme=gotham&rank_icon=github&custom_title=Finn's%20Github%20Stats#gh-dark-mode-only)]
-[![Finn's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=monkeontheroof&show_icons=true&theme=vue&rank_icon=github&custom_title=Finn's%20Github%20Stats#gh-light-mode-only)]
+[![Finn's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=monkeontheroof&show_icons=true&theme=gotham&rank_icon=github&custom_title=Finn's%20Github%20Stats#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Finn's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=monkeontheroof&show_icons=true&theme=vue&rank_icon=github&custom_title=Finn's%20Github%20Stats#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <!-- ![Finn's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=monkeontheroof&show_icons=true&theme=vue&rank_icon=github&custom_title=Finn's%20Github%20Stats#gh-light-mode-only) -->
 
 <h3 align="left">Languages and Tools:</h3>
