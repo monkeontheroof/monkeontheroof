@@ -1,10 +1,12 @@
+<p align="center"><img src="https://github.com/monkeontheroof/monkeontheroof/assets/82740892/2c746f72-539b-4ae7-9b61-2cf598edc554" width="69%" alt="See you space cowboy"/></p>
+
 <h1 align="center">Hi there 👋</h1>
 
 - 🔭 I’m currently working on **Software Engineering, Web Security**
 
 - 🌱 I’m currently self-learning Technologies
 
-- ⚡ Fun fact: **I'm so dumb**
+- ⚡ Fun fact: **Whatever happens, happens.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
