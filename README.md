@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently self-learning Technologies
 
-- ⚡ Fun fact: **Whatever happens, happens.**
+- ⚡ Fun fact: **I hate cockcroaches..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
