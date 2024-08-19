@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/monkeontheroof/monkeontheroof/assets/82740892/2c746f72-539b-4ae7-9b61-2cf598edc554" width="69%" alt="See you space cowboy"/></p>
+<!-- <p align="center"><img src="https://github.com/monkeontheroof/monkeontheroof/assets/82740892/2c746f72-539b-4ae7-9b61-2cf598edc554" width="69%" alt="See you space cowboy"/></p> -->
 
 <h1 align="center">Hi there 👋</h1>
 
